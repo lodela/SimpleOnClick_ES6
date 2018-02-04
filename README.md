@@ -1,2 +1,4 @@
-# SimpleOnClick_ES6
-Simple onClick with ES6
+# SimpleOnClick_TipeScript
+Simple onClick with TipeScript and ES6
+
+By Norberto Lodela.
